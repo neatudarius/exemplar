@@ -71,8 +71,6 @@ It may also find use as a minimal and modern  C++ project structure.
 
 ## License
 
-`beman.{{cookiecutter.project_name}}` is licensed under the Apache License v2.0 with LLVM Exceptions.
-
 ## Usage
 
 {% if cookiecutter._generating_exemplar %}

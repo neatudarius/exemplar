@@ -60,8 +60,6 @@ It may also find use as a minimal and modern  C++ project structure.
 
 ## License
 
-`beman.exemplar` is licensed under the Apache License v2.0 with LLVM Exceptions.
-
 ## Usage
 
 `std::identity` is a function object type whose `operator()` returns its argument unchanged.
